@@ -1,4 +1,4 @@
-<h3 align="center"> Data Analysis and Recommendation System based on Netflix Dataset <hr></h3>
+<h3 align="center"> Data Analysis and Build a Recommendation System, based on a Netflix Dataset <hr></h3>
 
 
 <p align="center">
